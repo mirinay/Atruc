@@ -90,8 +90,8 @@ nav a:hover{color:hsl(39, 94%, 51%)}
     .doe img{ border: 5px solid hsl(83, 90%, 51%);}
     .instagran img{ border: 5px solid hsl(83, 90%, 51%);}  
     .email img{ border: 5px solid hsl(83, 90%, 51%);}
-    .sapatilhafoto{display: flex; justify-content: space-between;
+    .sapatilhafotos{display: flex; justify-content: space-between;
         list-style-type: none;height: 350px; width: 350px;padding-top: 16px; padding-right: 100 pix;}
-.sapatostexto{text-align: center;font-size: 30px}
+
 
 
